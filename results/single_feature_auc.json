@@ -1,0 +1,11 @@
+{
+ "log1p_absdiff_vs_mis_cid": 0.39208433977455714,
+ "parsed_mis_cid": 0.5018115942028986,
+ "log1p_absdiff_vs_mis_free": 0.263599537037037,
+ "parsed_mis_free": 0.5481582125603864,
+ "log1p_absdiff_vs_gpt_free": 0.2629956723027375,
+ "parsed_gpt_free": 0.5042270531400966,
+ "votes_within_30s": 0.7289402173913044,
+ "selected_candidate_index/15": 0.4148299114331723,
+ "log1p_predicted_time_sec": 0.25403834541062803
+}
